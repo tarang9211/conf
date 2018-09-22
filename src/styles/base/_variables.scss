@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,700|Oswald");
+@import url("https://fonts.googleapis.com/css?family=Oswald");
+
+/* COLORS */
+$primary-100: #f3c5ff;
+$primary-200: #dcb0ff;
+$primary-300: #be93fd;
+$primary-400: #9968e2;
+$primary-500: #5e2caa;
+
+$gray-100: #efefef;
+$gray-200: #d3d3d3;
+$gray-300: #888888;
+$gray-400: #595959;
+$gray-500: #2e2e2e;
+
+$success-100: #04b601;
+$success-300: #009200;
+$success-500: #003100;
+
+$danger-100: #ec381e;
+$danger-300: #c80000;
+$danger-500: #770000;
+
+/* TYPOGRAPHY */
+$font-primary: "Lato", sans-serif;
+$font-secondary: "Oswald", sans-serif;
+
+$font-base: 1em;
+$text-xs: 0.5 * $font-base;
+$text-sm: 0.75 * $font-base;
+$text-md: 1 * $font-base;
+$text-lg: 1.25 * $font-base;
+$text-xl: 1.5 * $font-base;
+$text-xxl: 1.75 * $font-base;
+$text-xxxl: 2 * $font-base;
+$text-hg: 4 * $font-base;
+$text-ma: 4.25 * $font-base;
